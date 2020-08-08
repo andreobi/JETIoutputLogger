@@ -11,3 +11,5 @@ It is not possible to register a channel twice.
 Due to the system design it also makes no sence to sort the log channels.
 
 This application requiers V4.28 
+
+This sw is obsolete since Jeti version 5.x, because the switchItem logger can access output values now too.
